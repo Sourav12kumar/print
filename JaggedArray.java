@@ -37,7 +37,10 @@ public class JaggedArray {
           }
           System.out.println();
       }
+
        System.out.println("new change");
+
+
       
     }
 }
